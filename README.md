@@ -3,3 +3,4 @@ Neste repositório, disponibilizo todos os algoritmos construídos no decorrer d
 
 # Trabalho 2:
 
+[Trabalho 2.pdf](https://github.com/Ruann-01/Disciplina_PDI_Mestrado/files/8005222/Trabalho.2.pdf)
