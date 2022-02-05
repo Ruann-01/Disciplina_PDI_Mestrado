@@ -4,3 +4,6 @@ Neste repositório, disponibilizo todos os algoritmos construídos no decorrer d
 # Descrição Trabalho 2:
 
 [Trabalho 2.pdf](https://github.com/Ruann-01/Disciplina_PDI_Mestrado/files/8005222/Trabalho.2.pdf)
+
+# Descrição Trabalho Final:
+A descrição do trabalho se encontra no próprio notebook do trabalho final.
